@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 
 COMMONS_VERSION = '==0.3.2'
-MESOS_VERSION = '==0.20.1'
+MESOS_VERSION = '==0.24.1'
 
 
 here = os.path.abspath(os.path.dirname(__file__))
