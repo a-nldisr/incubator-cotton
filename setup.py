@@ -25,7 +25,7 @@ def list_package_data_files(package_root, data_folder):
 
 setup(
     name='mysos',
-    version='0.1.0-dev0',
+    version='0.1.0-dev1',
     description='Mysos (MySQL on Mesos)',
     url='https://github.com/twitter/mysos',
     license='Apache License, Version 2.0',
